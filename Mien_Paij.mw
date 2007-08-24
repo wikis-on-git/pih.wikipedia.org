@@ -1,4 +1,4 @@
-<center>Wataweih! Welkom to t' Norfuk & Pitkern Wikkapedya, T' frii Ensiiklopedya. Adda now we hauf '''{{NUMBEROFARTICLES}}''' dem [[Special:Allpages|artikal]] en daffy.</center>
+<center>Wataweih! Welkom to t' Norfuk & Pitkern Wikkapedya, T' frii Ensiiklopedya. Adda now we hauf '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' dem [[Special:Allpages|artikal]] en daffy.</center>
 
 {|
 |- 
@@ -67,20 +67,18 @@
 [[:en:Help:Contents|English Help Page]]
 <!---------------------------------------------->
 |}
-<div align="right"><small>[{{SERVER}}{{localurl:Template:Encyclopaedia|action=edit}} edit]</small></div>
+<div align="right"><small>[{{SERVER}}{{localurl:Template:Topics for the Main Page|action=edit}} edit]</small></div>
 |}
 
 ===You don't speak Norfolk?===
 
 [[Norfuk|Norfolk]] is a language spoken on [[Norfuk Ailen|Norfolk Island]], in the [[Pesifik Oshen|Pacific Ocean]]. The closely related language of [[Pitkern|Pitcairnese]] is spoken on [[Pitkern Ailen|Pitcairn Island]], also in the Pacific. It is originally a mixture of [[Inglish|English]] and [[Tahityan|Tahitian]], developed on the two islands by the descendents of the crew of the [[HMS Bounty|Mutiny on the Bounty]] and their Tahitian wives. There are expatriate communities throughout the world, mainly in [[Ostrielya|Australia]] and [[Nu Siiland|New Zealand]], who also speak the language. [[Norfuk|Norfolk]] is the official language of [[Norfuk Ailen|Norfolk Island]].
 
-[[en:]]
-[[de:]]
-[[es:]]
-[[fr:]]
-[[it:]]
-[[ja:]]
-[[nl:]]
-[[pl:]]
-[[pt:]]
-[[sv:]]
+== Wikkapedya laenghwij ==
+{{Wikipedialang}}<!--
+
+<!--which divs to these close?:--></div></div><!--
+-->__NOTOC__  __NOEDITSECTION__<!--
+
+<!----------Interwiki strapline---------->
+{{MainPageInterwikis}}
