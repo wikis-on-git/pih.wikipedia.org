@@ -1,7 +1,7 @@
 {{Country|
 native_name              = Tuvalu|
 conventional_long_name   = Tuvalu|
-country_name = Tuwaluu<br>|
+country_name = Tuwaluu<br />|
 flag_filename = Flag of Tuvalu.svg|
 coat_filename = Coat of arms of Tuvalu.svg|
 demonym_name = |
@@ -122,6 +122,7 @@ kaulin_coed = 688
 [[ro:Tuvalu]]
 [[ru:Тувалу]]
 [[sa:टुवालु]]
+[[sah:Тувалу]]
 [[scn:Tuvalu]]
 [[sco:Tuvalu]]
 [[se:Tuvalu]]
